@@ -1,6 +1,6 @@
 # SlidingWindowProtocol
 
-Efficient implementation of the Sliding Window Protocol in C used to send files between two points (sender and receiver).
+Efficient implementation of the Sliding Window Protocol, used to send files between two points (sender and receiver).
 'Efficient' in this case means that the "pipeline" of transmission will always be fully used.
 
 
